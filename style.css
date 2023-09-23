@@ -3,7 +3,13 @@ body {
     background-color: aquamarine;
     
     }
+
     
-    div {               /* Centrage de la page */
+div {               /* Centrage de la page */
         text-align: center;
     }
+
+
+img {               /* Arrondissement des angles du chat */
+    border-radius: 50%;
+}
